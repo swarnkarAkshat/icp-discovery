@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { SECTORS } from "../data/dummyData";
 
 const PAGE_SIZE = 7;

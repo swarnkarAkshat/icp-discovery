@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import SectorList from "./components/SectorList";
 import CountryDropdown from "./components/CountryDropdown";
 import IcpTable from "./components/IcpTable";
